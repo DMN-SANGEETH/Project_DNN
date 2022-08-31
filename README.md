@@ -8,6 +8,4 @@ I update firstly
 
 // Hi sangeeth
 
-//Tharindu
-
-//hi
+i'm updated
