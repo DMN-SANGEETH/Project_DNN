@@ -8,4 +8,12 @@ I update firstly
 
 // Hi sangeeth
 
+<<<<<<< HEAD
 i'm updated
+=======
+//Tharindu
+
+//hi
+
+// bolt
+>>>>>>> b2c5019e5c4605cdf8c2c091e12013e9550836bf
